@@ -1,3 +1,3 @@
 # myself_demo
-This is my first git repository
-author-redwan hussan
+This is my first git repository.
+Author-redwan hussan
